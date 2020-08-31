@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyExampleIso3Encryption</string>
+    <string name="enter_pin_hint">Enter your PIN (between 4 and 12 digits)</string>
+    <string name="encrypt_pin_title_screen">Get your Clear PIN block</string>
+    <string name="warning_using_pan">Using PAN: 1111222233334444</string>
+    <string name="generate_clear_pin_block_button">Generate</string>
+    <string name="your_clear_pin_block_is_s">Your Clear PIN Block is\n%s</string>
+    <string name="error_please_digits_minimum_maximum">Please enter between 4 and 12 digits.</string>
 </resources>
