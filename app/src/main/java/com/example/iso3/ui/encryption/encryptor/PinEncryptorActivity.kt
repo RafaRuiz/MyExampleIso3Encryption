@@ -1,10 +1,10 @@
-package com.example.iso3.encryption.encryptor
+package com.example.iso3.ui.encryption.encryptor
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.widget.addTextChangedListener
 import androidx.lifecycle.Observer
-import com.example.iso3.encryption.R
+import com.example.iso3.ui.encryption.R
 import kotlinx.android.synthetic.main.activity_pin_encryptor.*
 import org.koin.androidx.viewmodel.ext.android.viewModel
 

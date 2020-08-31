@@ -1,9 +1,9 @@
-package com.example.iso3.encryption.encryptor
+package com.example.iso3.ui.encryption.encryptor
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.iso3.encryption.data.encriptors.Iso3Encryptor
+import com.example.iso3.ui.encryption.data.encriptors.Iso3Encryptor
 
 abstract class PinEncryptorViewModel : ViewModel() {
     // LiveData for errors regarding the PIN

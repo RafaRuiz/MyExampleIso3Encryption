@@ -1,4 +1,4 @@
-package com.example.iso3.encryption.data.encriptors
+package com.example.iso3.ui.encryption.data.encriptors
 
 import java.util.*
 import kotlin.random.Random

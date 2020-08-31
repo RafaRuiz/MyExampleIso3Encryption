@@ -1,8 +1,8 @@
-package com.example.iso3.encryption
+package com.example.iso3.ui.encryption
 
 import android.app.Application
-import com.example.iso3.encryption.data.encryptorModule
-import com.example.iso3.encryption.modules.viewModelModule
+import com.example.iso3.ui.encryption.data.encryptorModule
+import com.example.iso3.ui.encryption.modules.viewModelModule
 import org.koin.core.context.startKoin
 
 class EncryptorApplication : Application() {
